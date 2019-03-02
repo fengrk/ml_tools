@@ -1,0 +1,3 @@
+[submodule "ref_libs/models"]
+	path = ref_libs/models
+	url = https://github.com/tensorflow/models
