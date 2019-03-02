@@ -1,0 +1,17 @@
+[
+  "model_builder_test.py::ModelBuilderTest::test_create_embedded_ssd_mobilenet_v1_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_inception_resnet_v2_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_inception_v2_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_model_from_config_with_example_miner",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_nas_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_pnas_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_resnet101_with_mask_prediction_enabled",
+  "model_builder_test.py::ModelBuilderTest::test_create_faster_rcnn_resnet_v1_models_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_rfcn_resnet_v1_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_ssd_inception_v2_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_ssd_inception_v3_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_ssd_mobilenet_v1_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_ssd_mobilenet_v2_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_create_ssd_resnet_v1_fpn_model_from_config",
+  "model_builder_test.py::ModelBuilderTest::test_session"
+]

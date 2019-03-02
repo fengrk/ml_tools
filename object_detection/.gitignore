@@ -1,0 +1,12 @@
+logs
+logs/
+*.log
+!tf.log
+*.txt
+*.png
+*.jpg
+*ssd_inception_v2.pb
+
+
+
+
